@@ -1,4 +1,4 @@
-# 🏎️ Physics-Informed Point Transformer for Aerodynamics
+# 🏎️ AeroFormer: Physics-Informed Point Transformer
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
