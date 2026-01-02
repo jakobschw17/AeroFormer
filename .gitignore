@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset & Large Files
+physicsnemo_ahmed_body_dataset_vv1/
+DrivAerNet/
+
+# Checkpoints & Logs
+checkpoints/
+visuals_production/
+
+# Scratch & Temporary Folders
+trying/
+corr/
+
+# Generated Outputs
+*.vtp
+*.gif
+*.png
+prediction_result.vtp
+prediction_3d.gif
+prediction_slice.png
