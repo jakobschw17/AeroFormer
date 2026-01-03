@@ -29,3 +29,5 @@ corr/
 prediction_result.vtp
 prediction_3d.gif
 prediction_slice.png
+
+!assets/*.png

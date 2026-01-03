@@ -12,7 +12,7 @@ This repository contains a PyTorch implementation of a **Point Transformer** des
 
 ## 🖼️ Gallery
 
-![Training Demo](visuals_production/slice_epoch_740.png)
+![Training Demo](assets/slice_epoch_740.png)
 *(Example output showing Ground Truth vs. AI Prediction of pressure distribution)*
 
 ---
